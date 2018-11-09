@@ -1,0 +1,7 @@
+C:\Users\Edy\source\repos\E4-1 Investigacion de Arbol\E4-1Investigacion de Arbol\bin\Debug\E4-1Investigacion de Arbol.exe.config
+C:\Users\Edy\source\repos\E4-1 Investigacion de Arbol\E4-1Investigacion de Arbol\bin\Debug\E4-1Investigacion de Arbol.exe
+C:\Users\Edy\source\repos\E4-1 Investigacion de Arbol\E4-1Investigacion de Arbol\bin\Debug\E4-1Investigacion de Arbol.pdb
+C:\Users\Edy\source\repos\E4-1 Investigacion de Arbol\E4-1Investigacion de Arbol\obj\Debug\E4-1Investigacion de Arbol.csprojAssemblyReference.cache
+C:\Users\Edy\source\repos\E4-1 Investigacion de Arbol\E4-1Investigacion de Arbol\obj\Debug\E4-1Investigacion de Arbol.csproj.CoreCompileInputs.cache
+C:\Users\Edy\source\repos\E4-1 Investigacion de Arbol\E4-1Investigacion de Arbol\obj\Debug\E4-1Investigacion de Arbol.exe
+C:\Users\Edy\source\repos\E4-1 Investigacion de Arbol\E4-1Investigacion de Arbol\obj\Debug\E4-1Investigacion de Arbol.pdb
